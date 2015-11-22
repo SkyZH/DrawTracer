@@ -1,0 +1,23 @@
+{
+  "name": "draw-tracer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyZH/DrawTracer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyZH/DrawTracer/issues"
+  },
+  "homepage": "https://github.com/SkyZH/DrawTracer#readme",
+  "devDependencies": {
+    "live-server": "^0.8.2"
+  }
+}
